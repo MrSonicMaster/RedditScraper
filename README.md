@@ -14,3 +14,5 @@ to the subreddit of your choice. You will the NodeJS interpreter at above versio
 You will also need to install the `Request` module with npm.
 
 This is just a quick 1-day project, there are probably others out there that get the job done but the few I tried didn't seem to get all of the images so I made my own just for fun.
+
+If you' like to use my static RedditScraper class in your own project, just credit my name and you're free to do so.
